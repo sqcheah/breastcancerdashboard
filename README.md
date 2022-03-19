@@ -6,3 +6,5 @@ Our chosen topic is breast cancer. We decided to make it as subscription based f
 This project is using PHP, MySQL, datatables and chart.js
 
 The database is used to manage articles and user subscription.
+
+Demo Video: https://www.youtube.com/watch?v=bPfb4ZYog78
