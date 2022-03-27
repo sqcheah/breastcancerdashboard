@@ -7,4 +7,4 @@ This project is using PHP, MySQL, datatables and chart.js
 
 The database is used to manage articles and user subscription.
 
-Demo Video: https://youtu.be/7WxL8gIwqJU
+Demo Video: https://youtu.be/uTjZ8nOnTqc
